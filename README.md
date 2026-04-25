@@ -24,3 +24,6 @@ https://indian-recipe-search-c75806.netlify.app
 
 ## Author
 Nithya Siri
+
+## 📌 Status
+This project is completed and deployed successfully.

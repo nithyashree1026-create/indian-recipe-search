@@ -23,7 +23,7 @@ https://indian-recipe-search-c75806.netlify.app
 - Netlify
 
 ## Author
-Nithya Siri
+Nithya 
 
 ## 📌 Status
 This project is completed and deployed successfully.
@@ -37,5 +37,5 @@ This project is completed and deployed successfully.
 - Deployed using Netlify
 
 ## 🙋‍♀️ Author
-Made with ❤️ by Nithya
+ Nithya
 
